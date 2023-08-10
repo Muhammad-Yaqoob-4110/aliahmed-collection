@@ -13,14 +13,14 @@ const collection = [
         link:"https://mega.nz/folder/7jBzHARL#-O7g3xXbr611M9AupZz5Q"
     },
     {
-        id:"3",
-        title:"Flutter",
+        id:"4",
+        title:"MS Excel",
         description:"Ecommerce course by Mossab Balatif",
         link:"https://mega.nz/folder/7jBzHARL#-O7g3xXbr611M9AupZz5Q"
     },
     {
-        id:"4",
-        title:"MS Excel",
+        id:"3",
+        title:"Flutter",
         description:"Ecommerce course by Mossab Balatif",
         link:"https://mega.nz/folder/7jBzHARL#-O7g3xXbr611M9AupZz5Q"
     },
