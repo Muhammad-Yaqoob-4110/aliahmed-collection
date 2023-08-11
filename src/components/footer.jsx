@@ -8,7 +8,7 @@ const Footer = () => {
       <div style={{ display: "flex", justifyContent: "center" }}>
         <a
           className="contact-box set-ancer"
-          href="mailto:2021cs118@student.edu.pk"
+          href="mailto:2021cs118@student.uet.edu.pk"
         >
           <div className="rounded-circle">
             <img style={{ width: "2rem" }} src={email} alt="..." />
