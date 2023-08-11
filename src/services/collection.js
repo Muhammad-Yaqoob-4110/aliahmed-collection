@@ -2,8 +2,8 @@ const collection = [
     {
         id:"1",
         title:"AI",
-        description:["5-Day AI Campaign Sprint By Rich Schefren Jay Ibraham"],
-        link:["https://mega.nz/folder/7jBzHARL#-O7g3xXbr6D11M9AupZz5Q"],
+        description:["5-Day AI Campaign Sprint By Rich Schefren Jay Ibraham","Python Artificial intelligence"],
+        link:["https://mega.nz/folder/7jBzHARL#-O7g3xXbr6D11M9AupZz5Q","https://drive.google.com/drive/folders/1D0w7UjTJlCEQNj6GXvqCgvlLPbsaCnG_"],
         decrypctionKey:[],
     },
     {
@@ -16,8 +16,8 @@ const collection = [
     {
         id:"3",
         title:"ChatGPT",
-        description:["Here's one of the Best course on ChatGPT by Perry Belcher AI summit 2023"," ChatGPT 2023 – Passive Income / Artificial Intelligence"],
-        link:["https://mega.nz/folder/RrEmgZBT#b7tf6cBCIy2th6-J93jRkQ","https://mega.nz/file/JmVBxITJ#ZzUdeD6QgZ-5U3JwG_eG2WfBigECOPMmLcCUdAHA7rI"],
+        description:["Here's one of the Best course on ChatGPT by Perry Belcher AI summit 2023"," ChatGPT 2023 – Passive Income / Artificial Intelligence","Build Beautiful Apps with GPT-4 and Midjourney"],
+        link:["https://mega.nz/folder/RrEmgZBT#b7tf6cBCIy2th6-J93jRkQ","https://mega.nz/file/JmVBxITJ#ZzUdeD6QgZ-5U3JwG_eG2WfBigECOPMmLcCUdAHA7rI","https://mega.nz/folder/xXEXAJbR#2uXLkVEhDNZMniQx97USqQ"],
         decrypctionKey:[]
     },
     {
@@ -30,8 +30,8 @@ const collection = [
     {
         id:"5",
         title:"JavaScript",
-        description:["Udemy - 1 Hour JavaScript"],
-        link:["https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g/folder/SMoCDSqJ"],
+        description:["Udemy - 1 Hour JavaScript","JavaScript - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g/folder/SMoCDSqJ","https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/skl13KrJ"],
         decrypctionKey:[]
     },
     {
@@ -69,13 +69,7 @@ const collection = [
         link:["https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g/folder/mc5UnI7Q"],
         decrypctionKey:[]
     },
-    {
-        id:"11",
-        title:"AD’s Hacker",
-        description:["Udemy - AD’s Hacker 1.0. Extreme Advertisement Hacking. 2021 Edition"],
-        link:["https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g/folder/zdhADQTT"],
-        decrypctionKey:[]
-    },
+    
     {
         id:"12",
         title:"Adobe",
@@ -100,8 +94,8 @@ const collection = [
     {
         id:"15",
         title:"Hacking",
-        description:["Hacking Course","SOME BLACKHAT Paid TUTORIALS BY MRLEET","Paid WIFI HACKING COURSE","BASICS OF ETHICAL HACKING CORE TRAINING BY The Dreaded Army"],
-        link:["https://mega.nz/folder/0QVGjDBY#hYNLkXYwEskPeLueq82jJg/folder/ABFHhAjD","https://mega.nz/folder/k5MDXBQD#16OffIi1DCOqZXEJaabdlw","https://mega.nz/folder/ypgg3QJS#GmKAHx44BgENWi-ZBKNnOA","https://mega.nz/folder/J7ARwAiB#yGy3LmBUVuUnCL6PWsX3mA"],
+        description:["Hacking Course","SOME BLACKHAT Paid TUTORIALS BY MRLEET","Paid WIFI HACKING COURSE","BASICS OF ETHICAL HACKING CORE TRAINING BY The Dreaded Army","Udemy - AD’s Hacker 1.0. Extreme Advertisement Hacking. 2021 Edition"],
+        link:["https://mega.nz/folder/0QVGjDBY#hYNLkXYwEskPeLueq82jJg/folder/ABFHhAjD","https://mega.nz/folder/k5MDXBQD#16OffIi1DCOqZXEJaabdlw","https://mega.nz/folder/ypgg3QJS#GmKAHx44BgENWi-ZBKNnOA","https://mega.nz/folder/J7ARwAiB#yGy3LmBUVuUnCL6PWsX3mA","https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g/folder/zdhADQTT"],
         decrypctionKey:[]
     },
     {
@@ -128,10 +122,172 @@ const collection = [
     {
         id:"19",
         title:"WEB DEVELOPMENT",
-        description:["WEB DEVELOPMENT  BY UDEMY"],
-        link:["https://mega.nz/folder/ViYy2TIT#cyvpfiqw_mT4Yd8wKV4jgQ/folder/4roxQahZ"],
+        description:["WEB DEVELOPMENT  BY UDEMY","Complete Full Stack Web-Development course by Angela yu"],
+        link:["https://mega.nz/folder/ViYy2TIT#cyvpfiqw_mT4Yd8wKV4jgQ/folder/4roxQahZ","https://mega.nz/folder/n2hSRCpK#n19h1mRIPRzADigl0yoUQg"],
         decrypctionKey:[]
     },
+    {
+        id:"20",
+        title:"Angular",
+        description:["Angular - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/d113RaSZ"],
+        decrypctionKey:[]
+    },
+    {
+        id:"21",
+        title:"ASP.NET",
+        description:["ASP.NET - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/R801hAjZ"],
+        decrypctionKey:[]
+    },
+    {
+        id:"22",
+        title:"ASP.NET Core",
+        description:["ASP.NET Core - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/B9lXzQYA"],
+        decrypctionKey:[]
+    },
+    {
+        id:"23",
+        title:"Backbone.Js",
+        description:["Backbone.Js - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/A5tzHYLA"],
+        decrypctionKey:[]
+    },
+    {
+        id:"24",
+        title:"C#",
+        description:["C# - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/0t83XaAA"],
+        decrypctionKey:[]
+    },
+    {
+        id:"25",
+        title:"Code Refactoring",
+        description:["Code Refactoring - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/Zp0hEAqY"],
+        decrypctionKey:[]
+    },
+    {
+        id:"26",
+        title:"Data Structures",
+        description:["Data Structures and Algorithms - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/Nx1RjY4C"],
+        decrypctionKey:[]
+    },
+    {
+        id:"27",
+        title:"Design Patterns",
+        description:["Design Patterns - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/ot9TVYBK"],
+        decrypctionKey:[]
+    },
+    {
+        id:"28",
+        title:"DotNET",
+        description:["DotNET - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/50kFEApI"],
+        decrypctionKey:[]
+    },
+    {
+        id:"29",
+        title:"Entity Framework",
+        description:["Entity Framework - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/tkknhSBR"],
+        decrypctionKey:[]
+    },
+    {
+        id:"30",
+        title:"Ionic",
+        description:["Ionic - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/N5sRWSCI"],
+        decrypctionKey:[]
+    },
+    {
+        id:"31",
+        title:"Java",
+        description:["Java - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/Nh912YhB"],
+        decrypctionKey:[]
+    },
+    {
+        id:"32",
+        title:"Node.JS",
+        description:["Node.JS - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/1gtTHaoR"],
+        decrypctionKey:[]
+    },
+    {
+        id:"33",
+        title:"Python",
+        description:["Python - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/RttxVYqK"],
+        decrypctionKey:[]
+    },
+    {
+        id:"34",
+        title:"React",
+        description:["React - Paid Course of Mosh Hamedani","Udemy - Modern react with Redux - 2020"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/UglzyK6J","https://mega.nz/folder/DzhVxTKY#h_EfsFmUdvaO4oR1MVeuwQ"],
+        decrypctionKey:[]
+    },
+    {
+        id:"35",
+        title:"React Native",
+        description:["React Native - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/M80x3SbS"],
+        decrypctionKey:[]
+    },
+    {
+        id:"36",
+        title:"Redux",
+        description:["Redux - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/c80R0QCI"],
+        decrypctionKey:[]
+    },
+    {
+        id:"37",
+        title:"SQL",
+        description:["SQL - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/kg0DhQIQ"],
+        decrypctionKey:[]
+    },
+    {
+        id:"38",
+        title:"Xamarin Forms",
+        description:["Xamarin Forms - Paid Course of Mosh Hamedani"],
+        link:["https://mega.nz/folder/8stDDQ7J#_mPKY8XOQ4UbaUJ5rV0WBw/folder/hw1ViAjR"],
+        decrypctionKey:[]
+    },
+    {
+        id:"39",
+        title:"CAT",
+        description:["Ims cat video lectures"],
+        link:["https://mega.nz/folder/DuZAiY7C#uXKS-6L4l_B8IPXjaqxihA"],
+        decrypctionKey:[]
+    },
+    {
+        id:"40",
+        title:"GATE",
+        description:["GATE (complete - course) by Ravindrababu Ravula"],
+        link:["https://mega.nz/folder/OmhhyZTB#SkF6dphAxxOpOnGAvYDLaQ"],
+        decrypctionKey:[]
+    },
+    {
+        id:"41",
+        title:"GRAPHIC DESIGN",
+        description:["GRAPHIC DESIGN BOOTCAMP (PT.1) - 16GB COURSE - WITH PROJECTS"],
+        link:["https://mega.nz/folder/UrRSHY7Y#mo5Rg4-o76GuEHQO1oqkCw"],
+        decrypctionKey:[]
+    },
+    {
+        id:"42",
+        title:"WordPress",
+        description:["A file that includes about 850 paid WordPress themes, tools, and plugins By Social fly"],
+        link:["https://mega.nz/folder/08tSFIDD#ToN_BWXwwpCPccbxrm_7BA"],
+        decrypctionKey:[]
+    },
+    
 
 ];
 
