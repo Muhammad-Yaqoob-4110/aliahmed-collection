@@ -14,7 +14,7 @@ const Footer = () => {
             <img style={{ width: "2rem" }} src={email} alt="..." />
           </div>
           <h4>Email</h4>
-          <p className="setEmail">2021cs118@student.edu.pk</p>
+          <p className="setEmail">2021cs118@student.uet.edu.pk</p>
         </a>
       </div>
     </div>
