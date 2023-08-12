@@ -3,7 +3,7 @@ import "../../index.css";
 class SearchBox extends Component {
   state = {};
   render() {
-    const { value, onChange } = this.props;
+    const { value, onChange, length } = this.props;
     return (
       <div className="form-group left-right-margin">
         <h3>FreeCoursesCamp</h3>
@@ -14,6 +14,11 @@ class SearchBox extends Component {
           className="form-control"
           placeholder="Search..."
         />
+        <p>
+          {length === 1
+            ? `There is ${length} cource in the database`
+            : `There are ${length} cources in the database`}
+        </p>
       </div>
     );
   }

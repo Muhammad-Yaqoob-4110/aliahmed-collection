@@ -26,7 +26,12 @@ class Collections extends Component {
     return (
       <div>
         <div className="collections-container bg-light">
-          <SearchBox value={searchQuery} onChange={this.haldleSearchQuery} />
+          <SearchBox
+            value={searchQuery}
+            onChange={this.haldleSearchQuery}
+            length={collection.length}
+          />
+
           <ul className="list-container my-3">
             {collection.map((c) => {
               return (
